@@ -13,7 +13,6 @@ namespace LeetCodeRunner.Arithmetic
         public void Run()
         {
             var nums = new[] { 1, 2, 4};
-            int target = 9;
 
             bool result = CanMakeArithmeticProgression(nums);
 

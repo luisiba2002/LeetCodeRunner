@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 
 namespace LeetCodeRunner.Arithmetic
 {
-    [Problem(1, "Q1_Sequence")]
     internal class Q1_Sequence : IProblem
     {
         public void Run()

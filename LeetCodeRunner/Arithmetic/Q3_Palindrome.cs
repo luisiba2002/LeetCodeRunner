@@ -8,7 +8,6 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace LeetCodeRunner.Arithmetic
 {
-    [Problem(3, "Q3_Palindrome")]
     public class Q3_Palindrome : IProblem
     {
         public void Run()
